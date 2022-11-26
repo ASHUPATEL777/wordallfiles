@@ -1,0 +1,2 @@
+# wordallfiles
+all word file
